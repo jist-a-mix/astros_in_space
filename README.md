@@ -12,7 +12,7 @@ Try to find it with my api request (Data from ISS API "open notify")
 ## Installation
 
 ```bash
-git clone git@github.com:jist-a-mix/astros_in_space.git
+git clone git@github.com:mjista/astros_in_space.git
 cd astros_in_space
 ```
 
